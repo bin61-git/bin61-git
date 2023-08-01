@@ -19,5 +19,7 @@ Python, Pandas, Numpy, Matplotlib, SciPy, Plotly, Seaborn.
   <tbody>
 
 <tr>
-      <td><a https://github.com/bin61-git/yandex-practicum-DA-projects><b>Terraform AWS Projects</b></a></td>
-</tr>    
+      <td><a href="https://github.com/bin61-git/yandex-practicum-DA-projects"><b>yandex-practicum-DA-projects</b></a></td>
+</tr>  
+  </tbody>
+</table>  
